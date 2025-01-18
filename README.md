@@ -1,2 +1,2 @@
 # BAN436_final_project
-Repository for a final project of BAN436 course at NHH
+This repository contains files for the final project of BAN436 - Introduction to Python course at NHH (Norwegian School of Economics). The purpose is to store the project progress and to be helpful to other NHH students starting in python.
